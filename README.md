@@ -1,5 +1,5 @@
 # Pass-URL-as-command-line-into-Gherkin-Tests
-Instead of using hard coded URL pass whatever URL through command line to run tests. Selenium-webdriver|Junit|Cucumber
+Instead of using hard coded URL use command line to pass URL to run tests. Selenium-webdriver|Junit|Cucumber
 
 Right click on the project select run as configuration.
 Select Java Application, Press the new configuration button to create new Java Application Configuration.
