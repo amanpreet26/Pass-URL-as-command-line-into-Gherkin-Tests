@@ -13,7 +13,7 @@ public class TitleSteps {
 	
 	public static	WebDriver driver;
 	BaseClass bc;
-
+	//BaseClass bc= new BaseClass(); 
 	public TitleSteps(BaseClass bc) {
 		this.bc = bc;	
 		driver=bc.getDriver();
